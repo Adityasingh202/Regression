@@ -5,4 +5,12 @@ typically achieved through the least squares method. Simple linear regression ca
 
 # Problem Statement 
 
-We have a dataset comprisingsalaries
+We have a dataset comprising salaries of individuals alongside their respective years of professional experience. Our objective is to devlop a linear regression modle to accurately predict salaries based on an individual's experience. additionally, we aim to assess the model's accuracy once established.
+
+# Variables 
+
+Dependent Variable - Salary Independent Variable - YearsExperience
+
+#Dataset
+
+df=pd.read_csv('Salary_Data.csv')df
