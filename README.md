@@ -11,6 +11,6 @@ We have a dataset comprising salaries of individuals alongside their respective 
 
 Dependent Variable - Salary Independent Variable - YearsExperience
 
-#Dataset
+# Dataset
 
 df=pd.read_csv('Salary_Data.csv')df
